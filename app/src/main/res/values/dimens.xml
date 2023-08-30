@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_size">20sp</dimen>
+    <dimen name="small_topmargin">8dp</dimen>
+    <dimen name="title_paddingvalue" />
+</resources>

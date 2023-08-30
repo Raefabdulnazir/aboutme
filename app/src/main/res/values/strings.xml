@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="title">About Me</string>
+    <string name="name">RAEF NAZIR</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello all, My name is RAEF . I am a software developer . I am interested in android development</string>
+</resources>

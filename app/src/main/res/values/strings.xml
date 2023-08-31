@@ -4,4 +4,6 @@
     <string name="name">RAEF NAZIR</string>
     <string name="yellow_star">Yellow Star</string>
     <string name="bio">Hello all, My name is RAEF . I am a software developer . I am interested in android development</string>
+    <string name="mybio">mybio</string>
+    <string name="edit_nickname">What is your Nickname?</string>
 </resources>

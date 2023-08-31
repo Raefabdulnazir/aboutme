@@ -3,4 +3,5 @@
     <dimen name="name_size">20sp</dimen>
     <dimen name="small_topmargin">8dp</dimen>
     <dimen name="title_paddingvalue" />
+    <dimen name="edit_nickname_height">50dp</dimen>
 </resources>

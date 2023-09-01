@@ -6,4 +6,5 @@
     <string name="bio">Hello all, My name is RAEF . I am a software developer . I am interested in android development</string>
     <string name="mybio">mybio</string>
     <string name="edit_nickname">What is your Nickname?</string>
+    <string name="done" >Done</string>
 </resources>
